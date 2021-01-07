@@ -1,6 +1,6 @@
 # Practice problem => Universetech.Taipei
 
-面試臺灣[天翰國際科技有限公司 - 前端工程師](https://www.104.com.tw/job/6ozux?jobsource=pda)時，被要求做的[面試前測驗](https://forms.gle/QaFr7SNE9TVKxwsh7)以及本專案中實作的靜態網頁。
+面試臺灣[天翰國際科技有限公司 - 前端工程師](https://www.104.com.tw/job/6ozux?jobsource=pda)時，[面試前測驗](https://forms.gle/QaFr7SNE9TVKxwsh7)以及本專案中實作的靜態網頁。
 
 ### 實作測驗描述
 請寫一個純前端的網頁，並放在 GitHub 或類似的網站上。
